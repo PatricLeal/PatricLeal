@@ -9,7 +9,7 @@
 - Machine Learning & Data Science
 - Open Source & Open Hardware
 
-🌐 **Portfolio / Website:** [https://github.io/PatricLeal/](https://github.io/PatricLeal/)
+🌐 **Portfolio / Website:** [https://PatricLeal.github.io](https://PatricLeal.github.io)
 
 📫 **Connect with me:**
 - [GitHub](https://github.com/PatricLeal)
